@@ -1,0 +1,37 @@
+_repo: Voodoo-Planet_18846
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18846-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Norton, Andre
+    aliases:
+    - Norton, Alice Mary
+    - Norton, Andre Alice
+    - North, Andrew
+    birthdate: 1912
+    deathdate: 2005
+    gutenberg_agent_id: '7021'
+    url: http://www.gutenberg.org/2009/agents/7021
+    wikipedia: http://en.wikipedia.org/wiki/Andre_Norton
+description: ''
+gutenberg_bookshelf:
+- Science Fiction
+- Science Fiction by Women
+gutenberg_issued: '2006-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18846'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Solar Queen (Imaginary space vehicle) -- Fiction'
+- !lcsh 'Life on other planets -- Fiction'
+- !lcc 'PS'
+title: Voodoo Planet
+url: http://www.gutenberg.org/ebooks/18846
