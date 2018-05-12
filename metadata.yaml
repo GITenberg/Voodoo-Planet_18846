@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7021
     wikipedia: http://en.wikipedia.org/wiki/Andre_Norton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18846#Voodoo-Planet
 gutenberg_bookshelf:
 - Science Fiction
 - Science Fiction by Women
